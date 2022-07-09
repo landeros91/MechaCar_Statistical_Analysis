@@ -33,6 +33,18 @@
 
 ### T-Tests on Suspension Coils
 
+![](https://github.com/landeros91/MechaCar_Statistical_Analysis/blob/main/Images/t_test.png)
 
+-------------------------------------------------------------------------------------------------------------------------------
 
-###
+![](https://github.com/landeros91/MechaCar_Statistical_Analysis/blob/main/Images/plt1.png)
+
+--------------------------------------------------------------------------------------------------------------------------------
+### Lots
+
+![](https://github.com/landeros91/MechaCar_Statistical_Analysis/blob/main/Images/lot1.png)
+
+![](https://github.com/landeros91/MechaCar_Statistical_Analysis/blob/main/Images/lot2.png)
+
+![](https://github.com/landeros91/MechaCar_Statistical_Analysis/blob/main/Images/lot3.png)
+
