@@ -11,6 +11,11 @@
 ![](https://github.com/landeros91/MechaCar_Statistical_Analysis/blob/main/Images/Summary.png)
 
 
+
+
+
+
+
 ## Summary Statistics on Suspension Coils
 
 ### total_summary
