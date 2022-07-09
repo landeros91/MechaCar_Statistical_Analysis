@@ -42,9 +42,12 @@
 --------------------------------------------------------------------------------------------------------------------------------
 ### Lots
 
+### lot 1
 ![](https://github.com/landeros91/MechaCar_Statistical_Analysis/blob/main/Images/lot1.png)
 
+### Lot 2
 ![](https://github.com/landeros91/MechaCar_Statistical_Analysis/blob/main/Images/lot2.png)
 
+### Lot 3
 ![](https://github.com/landeros91/MechaCar_Statistical_Analysis/blob/main/Images/lot3.png)
 
