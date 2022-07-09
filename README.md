@@ -9,3 +9,16 @@
 -----------------------------------------------------------------------------------------------------------------------------
 ### Summary function
 ![](https://github.com/landeros91/MechaCar_Statistical_Analysis/blob/main/Images/Summary.png)
+
+
+## Summary Statistics on Suspension Coils
+
+### total_summary
+
+![](https://github.com/landeros91/MechaCar_Statistical_Analysis/blob/main/Images/total_summary.png)
+
+------------------------------------------------------------------------------------------------------------------------------
+
+### lot_summary
+
+![](https://github.com/landeros91/MechaCar_Statistical_Analysis/blob/main/Images/lot_summary.png)
